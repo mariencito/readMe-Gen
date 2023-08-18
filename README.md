@@ -7,6 +7,8 @@
     It is used to create a readMe file.
 ## Credits
     UM Coding Bootcamp
+    W3 Schools
+    Inquirer
 ## License
     This project is licensed under the MIT license.
 ## How to Contribute
