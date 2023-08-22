@@ -91,7 +91,7 @@ inquirer
     https://github.com/${response.username}
     You can email me at ${response.email}
     `;
-    return writeFileAsync('READMEtest.md' , readMeContent);
+    return writeFileAsync('README.md' , readMeContent);
   })
 
 //   above is the read me file with the responses from the questions inserted into the file

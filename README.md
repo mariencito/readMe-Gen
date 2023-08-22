@@ -1,4 +1,12 @@
 # readMe-Generator
+## Table of Contents
+[Contact Me](#questions)
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Test](#test)
+
 ## Description
     This is a readMe Generator. It’s a program that allows you to create a professional readMe much quicker and faster. It was made with node.js and inquirer.
 ## Installation
@@ -6,9 +14,7 @@
 ## Usage
     It is used to create a readMe file.
 ## Credits
-    UM Coding Bootcamp
-    W3 Schools
-    Inquirer
+    UM Coding Bootcamp	-W3 schools-Inquirer
 ## License
     This project is licensed under the MIT license.
 ## How to Contribute
@@ -16,6 +22,7 @@
 ## Tests
     I ran multiple tests. It took some time to get it right.
 ## Questions
-    GitHub: mariencito
+    https://github.com/mariencito
     You can email me at mariencastellanosjr@gmail.com
+    
     
