@@ -65,6 +65,14 @@ inquirer
   .then(response =>{
     const readMeContent = 
     `# ${response.title}
+## Table of Contents
+[Contact Me](#questions)
+[Description](#description)
+[Installation](#installation)
+[Usage](#usage)
+[License](#license)
+[Test](#test)
+
 ## Description
     ${response.description}
 ## Installation
@@ -80,7 +88,7 @@ inquirer
 ## Tests
     ${response.test}
 ## Questions
-    GitHub: ${response.username}
+    https://github.com/${response.username}
     You can email me at ${response.email}
     `;
     return writeFileAsync('READMEtest.md' , readMeContent);
